@@ -1,8 +1,12 @@
 # Fynal.AI
 
+Agentic Workflow Framework for Complex Problem Solving with human-machine collaboration.
+
+It provides an unique agentic platform for developers to build applications that generate value in real-world scenarios.
+
 ## AI that Collaborates Intelligently with Humans to Solve Complex Problems
 
-Fynal.AI systems are designed to work effectively alongside humans, leveraging advanced features and technologies to tackle complex problems. By combining human creativity with the intelligence, precision, and efficiency of genAI agents (the machines), Fynal.AI offers a powerful solution for a wide range of domains.
+Fynal.AI systems are designed to allow genAI agents to work effectively alongside humans, leveraging advanced features and technologies to tackle complex problems. By combining human creativity with the intelligence, precision, and efficiency of genAI agents (the machines), Fynal.AI offers a powerful solution for a wide range of domains.
 
 The Fynal.AI project is a collaborative genAI agents system tailored to work with humans in solving complex issues in various fields, including business, finance, healthcare, and more.
 
